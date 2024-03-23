@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About this project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small book finder app using the Google Books API
 
 ## Available Scripts
 
