@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Libre+Franklin&display=swap');
+
+:root {
+  --eggshell: #e5e0ce;
+  --peach: #cfa988;
+  --dark-green: #323315;
+  --terracotta: #9c5840;
+}
+
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: var(--peach);
+  padding: 2em;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+legend {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h1 {
+  color: var(--eggshell);
+}
+
+p,
+div,
+span,
+label {
+  font-family: 'Libre Franklin', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
